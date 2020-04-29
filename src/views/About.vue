@@ -68,7 +68,7 @@ export default {
     title: "About"
   },
   async created() {
-    const url = "https://api.github.com/repos/ambratolm/amb-notes";
+    const url = "https://api.github.com/repos/ambratolm/amb-notes-old";
     this.repo = (await this.$http.get(url)).data;
   },
   data() {
