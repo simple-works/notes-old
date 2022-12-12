@@ -39,7 +39,7 @@
     "bulma": "^0.8.1",
     "bulmaswatch": "^0.7.5",
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "json-server": "^0.16.1",
     "json-server-auth": "^1.2.1",
